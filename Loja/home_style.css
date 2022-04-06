@@ -114,5 +114,9 @@ body{
     background-size: cover;
 }
 
-
-
+.letrasbtn{
+    color: black;
+    font-family: 'Impact';
+    font-size: 27px;
+    text-align: center;
+}
