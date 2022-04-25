@@ -58,10 +58,23 @@ table{
 }
 
 .insta{
-    display: block;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 3px;
+    width: 27%;
+}
+
+.maps{
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 26%;
+}
+
+.row{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    width: 60%;
 }
 
 #guy{
